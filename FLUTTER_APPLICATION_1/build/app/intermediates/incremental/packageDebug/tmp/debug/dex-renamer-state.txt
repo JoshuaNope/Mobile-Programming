@@ -1,0 +1,4 @@
+#Sun Feb 20 15:44:34 ICT 2022
+base.0=C\:\\Joshua\\Kuliah Semester 4\\Mobile Prog\\android_studio\\FLUTTER_APPLICATION_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
